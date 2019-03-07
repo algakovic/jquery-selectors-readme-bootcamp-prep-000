@@ -1,5 +1,6 @@
 function paragraphSelector(){
-  $('p')
+  $('p');
+  console.log($('p'))
 }
 
 }// declare your functions here...
